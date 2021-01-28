@@ -8,7 +8,7 @@ An application, using a solution algorithm that uses arithmetic expressions and 
 ![Pseudocode1](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Pseudocode_1.PNG)
 ![Pseudocode2](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Pseudocode_2.PNG)
 
-# My C# Solution Code
+# My C# Solution
 
 ```C#
 
