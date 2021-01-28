@@ -17,3 +17,7 @@ An application, using a solution algorithm that uses arithmetic expressions and 
 
 # Complete Working Program
 ![Complete Working Program](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Complete%20Working%20Program.PNG)
+
+# Desk Check
+![DeskCheck1](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Seats_DeskCheck_1.PNG)
+![DeskCheck2](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Seats_Desk%20Check_2.PNG)
