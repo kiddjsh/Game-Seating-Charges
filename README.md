@@ -5,8 +5,8 @@ An application, using a solution algorithm that uses arithmetic expressions and 
 ![Variables & IPO Model](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Variables%20%26%20IPO%20Model.PNG)
 
 # Pseudocode
-![Pseudocode1] (https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Pseudocode_1.PNG)
-![Pseudocode2] (https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Pseudocode_2.PNG)
+![Pseudocode1](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Pseudocode_1.PNG)
+![Pseudocode2](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Pseudocode_2.PNG)
 
 # My C# Solution Code
 
@@ -15,4 +15,4 @@ An application, using a solution algorithm that uses arithmetic expressions and 
 ```
 
 # Complete Working Program
-![Complete Working Program] (https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Complete%20Working%20Program.PNG)
+![Complete Working Program](https://raw.githubusercontent.com/kiddjsh/Game-Seating-Charges/main/images/Complete%20Working%20Program.PNG)
