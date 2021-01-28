@@ -1,0 +1,2 @@
+# Game-Seating-Charges
+An application, using a solution algorithm that uses arithmetic expressions and built-in functions, that determines the total seating charges for any game held at a stadium; with a tiered seating structure, consisting of lower-level seating at $25.00  per seat, mid-level seating at $15.00 per seat, and upper-level seating at $10.00 per seat. The algorithm asks for the number of seats being purchased in each seating level, then determines the total for each level, and a grand total for the entire purchase.
